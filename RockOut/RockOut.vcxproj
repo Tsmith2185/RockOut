@@ -139,6 +139,29 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\Armor.h" />
+    <ClInclude Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\Inventory.h" />
+    <ClInclude Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\Map.h" />
+    <ClInclude Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\Monster.h" />
+    <ClInclude Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\Player.h" />
+    <ClInclude Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\Random.h" />
+    <ClInclude Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\Range.h" />
+    <ClInclude Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\Spell.h" />
+    <ClInclude Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\Store.h" />
+    <ClInclude Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\Weapon.h" />
+    <ClInclude Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\Wiz.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\AttackResponse.cpp" />
+    <ClCompile Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\Game.cpp" />
+    <ClCompile Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\Inventory.cpp" />
+    <ClCompile Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\Map.cpp" />
+    <ClCompile Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\Monster.cpp" />
+    <ClCompile Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\Player.cpp" />
+    <ClCompile Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\Random.cpp" />
+    <ClCompile Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\Spells.cpp" />
+    <ClCompile Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\Store.cpp" />
+    <ClCompile Include="..\..\..\..\..\..\Desktop\Program\myGames\Training\rpgGame\rpgGame\rpgGame\Wiz.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
